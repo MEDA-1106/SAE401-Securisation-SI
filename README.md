@@ -1,6 +1,6 @@
 # 🔐 SAÉ 401 — Sécuriser un système d'information
 
-> Projet de 3ᵉ année de BUT Réseaux & Télécommunications (parcours Cybersécurité) — IUT d'Auxerre.
+> Projet de 2ᵉ année de BUT Réseaux & Télécommunications (parcours Cybersécurité) — IUT d'Auxerre.
 > Déploiement **et** sécurisation d'un système d'information multi-site pour une agence fictive (« agence 4 »), en suivant les recommandations de l'**ANSSI**.
 
 ---
