@@ -1,11 +1,11 @@
-# 🔐 SAÉ 401 — Sécuriser un système d'information
+#  SAÉ 401 — Sécuriser un système d'information
 
 > Projet de 2ᵉ année de BUT Réseaux & Télécommunications (parcours Cybersécurité) — IUT d'Auxerre.
 > Déploiement **et** sécurisation d'un système d'information multi-site pour une agence fictive (« agence 4 »), en suivant les recommandations de l'**ANSSI**.
 
 ---
 
-## 📋 En résumé
+##  En résumé
 
 L'objectif de ce projet est de construire une infrastructure réseau complète, puis de la **sécuriser de bout en bout** en adoptant la démarche d'un professionnel de la cybersécurité :
 
@@ -18,7 +18,7 @@ Le rapport complet (52 pages, captures commentées et diagnostics) se trouve dan
 
 ---
 
-## 🗺️ Architecture réseau
+##  Architecture réseau
 
 ![Schéma réseau](docs/images/schema_reseau.png)
 
@@ -36,7 +36,7 @@ Le rapport complet (52 pages, captures commentées et diagnostics) se trouve dan
 
 ---
 
-## 🧩 Services déployés
+##  Services déployés
 
 ### Serveur Windows Server 2022
 - **Active Directory Domain Services** — domaine `agence4.fr`, unités d'organisation, comptes et groupes
@@ -56,7 +56,7 @@ Le rapport complet (52 pages, captures commentées et diagnostics) se trouve dan
 
 ---
 
-## 🛡️ Tests d'intrusion et sécurisation
+##  Tests d'intrusion et sécurisation
 
 La démarche appliquée est **avant → sécurisation → après** pour chaque attaque. Voici la synthèse :
 
@@ -80,7 +80,7 @@ La démarche appliquée est **avant → sécurisation → après** pour chaque a
 
 ---
 
-## 📅 Planning du projet
+##  Planning du projet
 
 Le projet a été mené sur 13 séances (environ 50 h), organisées selon la démarche installation → tests → sécurisation → ré-attaque.
 
@@ -88,7 +88,7 @@ Le diagramme de Gantt détaillé figure dans le rapport (chapitre 1).
 
 ---
 
-## 📂 Organisation du dépôt
+##  Organisation du dépôt
 
 ```
 SAE401-Securisation-SI/
@@ -104,7 +104,7 @@ SAE401-Securisation-SI/
 
 ---
 
-## 🎓 Compétences mises en œuvre
+##  Compétences mises en œuvre
 
 - Administration d'un **système d'information sécurisé** (Windows Server, Linux, Cisco, Stormshield)
 - **Supervision** et centralisation des journaux (Syslog, Zabbix)
@@ -114,9 +114,9 @@ SAE401-Securisation-SI/
 
 ---
 
-## 👥 Équipe
+## Équipe
 
-Projet réalisé par **Coban, Emre, Adem ROMDHANE et Romdhane** — encadré par **M. ROY**.
+Projet réalisé par **Coban Emre, Adem ROMDHANE ** — encadré par **M. ROY**.
 
 ---
 
