@@ -1,0 +1,12 @@
+# Fichiers temporaires systèmes
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Fichiers temporaires bureautique
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Dossiers d'outils
+.vscode/
