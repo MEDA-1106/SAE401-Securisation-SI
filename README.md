@@ -114,10 +114,5 @@ SAE401-Securisation-SI/
 
 ---
 
-## Équipe
-
-Projet réalisé par **Coban Emre, Adem ROMDHANE ** — encadré par **M. ROY**.
-
----
 
 <p align="center"><i>BUT Réseaux & Télécommunications — Parcours Cybersécurité — IUT d'Auxerre</i></p>
